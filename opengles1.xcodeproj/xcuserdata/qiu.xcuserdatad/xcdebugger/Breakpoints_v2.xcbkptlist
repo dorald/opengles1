@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "opengles1/VCCRenderingEngine.hpp"
+            timestampString = "518367498.256902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "tagVCCRenderingEngine"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tagVCCRenderingEngine::~tagVCCRenderingEngine()"
+                  moduleName = "opengles1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qiu/Public/opengles1/opengles1/VCCRenderingEngine.hpp"
+                  timestampString = "518424629.939278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tagVCCRenderingEngine::~tagVCCRenderingEngine()"
+                  moduleName = "opengles1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qiu/Public/opengles1/opengles1/VCCRenderingEngine.hpp"
+                  timestampString = "518424629.940417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tagVCCRenderingEngine::~tagVCCRenderingEngine()"
+                  moduleName = "opengles1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qiu/Public/opengles1/opengles1/VCCRenderingEngine.hpp"
+                  timestampString = "518424629.941584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
